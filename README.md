@@ -20,3 +20,15 @@ The documentation for HADRON is not available anymore and the Thingiverse post i
 
 All of these parts can be printed with PLA filament and about 15-20 % infill density. They came out really nice and I was able to use a cool split color (blue/red) filament for the frontal chest piece. See pictures below.
 
+![alt text](https://github.com/rithvikpillai/HADRON/blob/main/prints.png?raw=true)
+
+<i> Electronics </i>
+
+- x1 Arduino UNO
+- x1 Breadboard
+- x1 12 V Li-Ion Battery, 3000 mAh (from AndyMark - am-4347)
+- x16 MG996R 180 degree metal gear servo motors (stall torque ~ 11 kg/cm)
+- x1 SG90 9g Micro-Servo
+- x1 MPU6050 3-Axis Accelerometer & Gyroscope (I2C Module)
+- x1 PCA9685 16 Channel 12-bit PWM Servo Motor Driver (I2C Module)
+
