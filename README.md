@@ -20,7 +20,7 @@ However, the sensor & actuator selection, supporting electronics and programming
 
 All of these parts can be printed from the '3D Printed Parts' folder in the repository with PLA filament and about 15-20 % infill density. They came out really nice and I was able to use a cool split color (blue/red) filament for the frontal chest piece. See pictures below.
 
-![alt text](https://github.com/rithvikpillai/HADRON/blob/main/prints.png?raw=true)
+![alt text](https://github.com/rithvikpillai/HADRON/blob/main/hadron3.jpg?raw=true)
 
 <i> Electronics </i>
 
