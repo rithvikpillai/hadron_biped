@@ -39,5 +39,5 @@ Here is a picture of me and my assembled prototype!
 ![alt text](https://github.com/rithvikpillai/HADRON/blob/main/hadron2.jpeg?raw=true)
 
 <b> Software </b>
-TBD! Check out my website for more, rithvikpillai.github.io
+TBD
 
