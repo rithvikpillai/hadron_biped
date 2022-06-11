@@ -3,9 +3,7 @@ HADRON is my first iteration of a 16 DOF bipedal humanoid robot. The focus of th
 
 The 3D design of HADRON is not my design. It was found from Thingiverse here: https://www.thingiverse.com/thing:356398.
 
-![alt text](https://github.com/rithvikpillai/HADRON/blob/main/cadmodel.png?raw=true)
-
-<img src="https://github.com/rithvikpillai/HADRON/blob/main/cadmodel.png" width="200" />
+<img src="https://github.com/rithvikpillai/HADRON/blob/main/cadmodel.png" width="400" />
 
 However, the sensor & actuator selection, supporting electronics and programming are all my original design. The documentation for HADRON is not available anymore and the Thingiverse post is not in English, so my goal is to design this robot from the reference photos and STL's provided and document my progress along the way. Without further ado, let's get into it!
 
@@ -22,7 +20,7 @@ However, the sensor & actuator selection, supporting electronics and programming
 
 All of these parts can be printed from the '3D Printed Parts' folder in the repository with PLA filament and about 15-20 % infill density. They came out really nice and I was able to use a cool split color (blue/red) filament for the frontal chest piece. See pictures below.
 
-![alt text](https://github.com/rithvikpillai/HADRON/blob/main/hadron3.jpeg?raw=true)
+<img src="https://github.com/rithvikpillai/HADRON/blob/main/hadron3.jpeg" width="400" />
 
 <i> Electronics </i>
 
