@@ -34,10 +34,6 @@ All of these parts can be printed from the '3D Printed Parts' folder in the repo
 - x1 MPU6050 3-Axis Accelerometer & Gyroscope (I2C Module)
 - x1 PCA9685 16 Channel 12-bit PWM Servo Motor Driver (I2C Module)
 
-Here is a picture of me and my assembled prototype!
-
-![alt text](https://github.com/rithvikpillai/HADRON/blob/main/hadron2.jpeg?raw=true)
-
 <b> Software </b>
 TBD
 
